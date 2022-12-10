@@ -1,12 +1,4 @@
-.button{
-    background-color: red;
-    color: aliceblue;
-    border: none;
-    border-radius: 15px;
-    padding: 7px;
-    width: 80px;
-    
-}
+
 .button:hover{
     background-color: darkmagenta;
     cursor: pointer;
