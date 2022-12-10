@@ -1,0 +1,32 @@
+.button{
+    background-color: red;
+    color: aliceblue;
+    border: none;
+    border-radius: 15px;
+    padding: 7px;
+    width: 80px;
+    
+}
+.button:hover{
+    background-color: darkmagenta;
+    cursor: pointer;
+}
+input{
+    border-radius: 5px;
+    background: transparent;
+}
+
+input:hover{
+            background-color: aliceblue;
+            cursor: pointer;
+}
+body{
+    background-color: black;
+   
+    color: white;
+}
+form{
+    width: 500px;
+    color: white;
+    font-family:'Roboto' sans-serif;
+}
